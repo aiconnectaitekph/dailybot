@@ -62,7 +62,7 @@ export const defaultServices = {
   stt: "deepgram",
 };
 
-export const defaultLLMPrompt = `You are a assistant called ExampleBot. You can ask me anything.
+export const defaultLLMPrompt = `You are a assistant called Muka Bakong Raw Bot. You can ask me anything.
 Keep responses brief and legible.
 Your responses will converted to audio. Please do not include any special characters in your response other than '!' or '?'.
 Start by briefly introducing yourself.`;
@@ -181,7 +181,7 @@ export const LLM_MODEL_CHOICES = [
 export const PRESET_CHARACTERS = [
   {
     name: "Default",
-    prompt: `You are a assistant called ExampleBot. You can ask me anything.
+    prompt: `You are a assistant called Mocha Bakung Raw Bot. You can ask me anything.
     Keep responses brief and legible.
     Your responses will converted to audio. Please do not include any special characters in your response other than '!' or '?'.
     Start by briefly introducing yourself.`,
